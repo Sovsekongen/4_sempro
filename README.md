@@ -12,7 +12,7 @@ Det inverterede pendul!
 	 
 By:
  
-Viktor Poulsen______aka___CEO-Wannabe
+Viktor Poulsen______aka___CEO
  
 Mads Peters_________aka___Mathds
  
