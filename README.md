@@ -3,7 +3,7 @@
 Det inverterede pendul!
 
       \ 
-		\ 
+	\ 
 	_____\________
 	|     \      |
 	|      \     |
@@ -16,5 +16,5 @@ Det inverterede pendul!
  Jens Rossen		aka		ROZ_BOZ
  Marcus La Cour	aka		VandpoloBoi
  Peter Nielsen		aka		Hotshot
- Kasper Meldgaard	aka		Cap Jesus
+ Kasper Meldgaard	aka		Mr SDURobotics
  
