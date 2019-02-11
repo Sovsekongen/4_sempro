@@ -12,9 +12,14 @@ Det inverterede pendul!
 	 
  By:
  Viktor Poulsen 	aka		CEO
+ 
  Mads Peters		aka		Mathds
+ 
  Jens Rossen		aka		ROZ_BOZ
+ 
  Marcus La Cour	aka		VandpoloBoi
+ 
  Peter Nielsen		aka		Hotshot
+ 
  Kasper Meldgaard	aka		Mr SDURobotics
  
