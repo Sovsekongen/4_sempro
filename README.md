@@ -2,8 +2,8 @@
 
 Det inverterede pendul!
 
-      \ 
-	\ 
+       \ 
+	    \ 
 	_____\________
 	|     \      |
 	|      \     |
