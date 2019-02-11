@@ -12,15 +12,15 @@ Det inverterede pendul!
 	 
  By:
  
- Viktor Poulsen      aka   CEO
+ Viktor Poulsen____aka___CEO-Wannabe
  
- Mads Peters         aka   Mathds
+ Mads Peters_______aka___Mathds
  
- Jens Rossen         aka   ROZ_BOZ
+ Jens Rossen_______aka___ROZ_BOZ
  
- Marcus La Cour      aka   VandpoloBoi
+ Marcus La Cour____aka___VandpoloBoi
  
- Peter Nielsen       aka   Hotshot
+ Peter Nielsen_____aka___Hotshot
  
- Kasper Meldgaard    aka   Robo_Cap
+ Kasper Meldgaard__aka___Robo-Cap
  
