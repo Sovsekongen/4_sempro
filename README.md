@@ -10,17 +10,17 @@ Det inverterede pendul!
 	|____________|
 	  Her er det!
 	 
- By:
+By:
  
- Viktor Poulsen____aka___CEO-Wannabe
+Viktor Poulsen____aka___CEO-Wannabe
  
- Mads Peters_______aka___Mathds
+Mads Peters_______aka___Mathds
  
- Jens Rossen_______aka___ROZ_BOZ
+Jens Rossen_______aka___ROZ_BOZ
  
- Marcus La Cour____aka___VandpoloBoi
+Marcus La Cour____aka___VandpoloBoi
  
- Peter Nielsen_____aka___Hotshot
+Peter Nielsen_____aka___Hotshot
  
- Kasper Meldgaard__aka___Robo-Cap
+Kasper Meldgaard__aka___Robo-Cap
  
