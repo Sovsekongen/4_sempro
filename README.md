@@ -11,15 +11,16 @@ Det inverterede pendul!
 	  Her er det!
 	 
  By:
- Viktor Poulsen 	aka		CEO
  
- Mads Peters		aka		Mathds
+ Viktor Poulsen      aka   CEO
  
- Jens Rossen		aka		ROZ_BOZ
+ Mads Peters         aka   Mathds
  
- Marcus La Cour	aka		VandpoloBoi
+ Jens Rossen         aka   ROZ_BOZ
  
- Peter Nielsen		aka		Hotshot
+ Marcus La Cour      aka   VandpoloBoi
  
- Kasper Meldgaard	aka		Mr SDURobotics
+ Peter Nielsen       aka   Hotshot
+ 
+ Kasper Meldgaard    aka   Robo_Cap
  
