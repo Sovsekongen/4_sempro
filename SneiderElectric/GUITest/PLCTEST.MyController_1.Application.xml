@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.3.50</Version>
+    <SymbolConfigObject version="3.5.3.50" />
+    <ProjectInfo name="PLCTEST" devicename="MyController_1" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_POINTER_TO_WORD" size="4" swapsize="4" typeclass="Pointer" iecname="POINTER TO WORD" />
+    <TypeUserDef name="T_SEC_PLCSystemFB" size="8" nativesize="8" typeclass="Userdef" iecname="SEC.PLCSystemFB">
+      <UserDefElement type="T_POINTER_TO_WORD" iecname="pMW60000" byteoffset="4" />
+    </TypeUserDef>
+    <TypeSimple name="T_MODULE_TYPE_ID" size="2" swapsize="2" typeclass="Enum" iecname="MODULE_TYPE_ID" />
+    <TypeUserDef name="T_TMSF_TM3_SAx" size="24" nativesize="24" typeclass="Userdef" iecname="TMSF.TM3_SAx">
+      <UserDefElement type="T_MODULE_TYPE_ID" iecname="xType" byteoffset="4" />
+    </TypeUserDef>
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="IOCONFIG_GLOBALS">
+        <Node name="Module_1" type="T_TMSF_TM3_SAx" access="ReadWrite" />
+        <Node name="MyController_1" type="T_SEC_PLCSystemFB" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>
